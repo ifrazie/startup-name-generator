@@ -1,6 +1,6 @@
 # Startup Name Generator
 
-A new Flutter application.
+A Flutter application that can be run on Android, iOS, or web(experimental) that lets a user view and save their favorite startup company names.
 
 ## Getting Started
 
